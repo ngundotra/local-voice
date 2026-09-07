@@ -1,0 +1,8 @@
+.DS_Store
+dist/
+.swift-module-cache/
+*.wav
+*.log
+recordings/
+transcript*.txt
+smoke-test*.txt
